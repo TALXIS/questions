@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://docs.talxis.com/
+    about: You can find user and developer guides here.
+  - name: Support
+    url: https://support.talxis.com/
+    about: Please report incidents here.
